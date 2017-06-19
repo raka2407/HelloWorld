@@ -1,0 +1,22 @@
+/**
+ * 
+ */
+package com.dnb.no;
+
+/**
+ * @author AB62031
+ *
+ */
+public class HelloWorld {
+
+	/**
+	 * @param args
+	 */
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		
+		System.out.println("Hello World!");
+
+	}
+
+}
